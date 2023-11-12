@@ -34,7 +34,7 @@
                             <table class="table table-striped">
                                 <thead>
                                     <tr style="text-align: center;">
-                                        <th>ID</th>
+                                        <th>No</th>
                                         <th>Nama</th>
                                         <th>Alamat</th>
                                         <th>Tujuan</th>

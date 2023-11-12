@@ -57,4 +57,5 @@ class PetugasTamuController extends Controller
 
         return redirect('petugas/tamu/list')->with('success', 'Tamu Berhasil Dihapus');
     }
+
 }

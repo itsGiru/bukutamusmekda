@@ -11,6 +11,10 @@ class TamuModel extends Model
 
     protected $table = 'tamu';
 
+    protected $guarded=[
+        'id'
+    ];
+
     static public function getSingle($id)
     {
         return self::find($id);
